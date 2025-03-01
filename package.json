@@ -1,6 +1,6 @@
 {
   "name": "boxvault",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/sohaibaljarih/boxvault.git"
@@ -11,6 +11,36 @@
   "scripts": {
     "build": "tsc --watch"
   },
+  "keywords": [
+    "local-storage",
+    "browser-storage",
+    "web-storage",
+    "storage-management",
+    "storage-utility",
+    "frontend-utility",
+    "javascript-library",
+    "modern-web",
+    "client-side-storage",
+    "storage-enhancement",
+    "web-utilities",
+    "npm-package",
+    "lightweight",
+    "storage",
+    "browser",
+    "web",
+    "npm",
+    "sync",
+    "data",
+    "utility",
+    "frontend",
+    "javascript",
+    "management",
+    "metadata",
+    "performance",
+    "optimization",
+    "persistence",
+    "abstraction"
+  ],
   "author": "Sohaib Aljarih",
   "license": "MIT",
   "description": "A lightweight JavaScript library for managing and enhancing browser local storage, offering an abstraction layer for more efficient storage handling across modern browsers.",
