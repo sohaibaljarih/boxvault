@@ -1,6 +1,10 @@
 {
   "name": "boxvault",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/your-repository-name.git"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
