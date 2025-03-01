@@ -1,0 +1,16 @@
+{
+  "name": "boxvault",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "author": "Sohaib Aljarih",
+  "license": "MIT",
+  "description": "A lightweight JavaScript library for managing and enhancing browser local storage, offering an abstraction layer for more efficient storage handling across modern browsers.",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
